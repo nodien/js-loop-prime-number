@@ -1,0 +1,1 @@
+# js-loop-prime-number
